@@ -115,7 +115,7 @@ Visualizes churn behavior across different tenure lengths and billing patterns.
 
 ---
 
-# 💼 Business Value
+#3 💼 Business Value
 
 This project delivers actionable insights that help organizations understand and reduce customer churn. By combining SQL-based data preparation, Python-driven analytics, and Power BI visualization, the analysis enables data-backed decision-making across teams.
 
@@ -129,7 +129,7 @@ This solution helps organizations move from reactive churn handling to proactive
 
 ---
 
-# ✅ Conclusion
+#3 ✅ Conclusion
 
 This project demonstrates a complete end-to-end analytics workflow — from raw data cleaning and feature engineering in SQL to advanced analysis and visualization using Python and Power BI.
 
