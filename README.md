@@ -141,7 +141,7 @@ This end-to-end approach makes the project highly relevant for real-world busine
 
 ## 👤 Author
 **Muhammed Nafih**  
-Data Analyst |Python | SQL | Power BI | Data Visualization
+Data Analyst | Python | SQL | Power BI | Data Visualization
 
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/nafihhmohd/
